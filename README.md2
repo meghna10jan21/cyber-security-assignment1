@@ -1,0 +1,14 @@
+What type of attack was this?
+
+spear-phishing
+
+How was the vulnerability discovered? How were the attackers able to exploit the vulnerability?
+
+In April 2016 - 
+Hackers create a fake email account and use it to send spear-phishing emails to more than thirty Clinton staffers, according to investigators.
+ In the emails, the hackers embed a link purporting to direct the recipient to a document titled “hillaryclinton-favorable-rating.xlsx.” 
+ The link directs the recipients’ computers to a website operated by the hackers.
+  That same month, hackers use stolen credentials to access the Democratic Congressional Campaign Committee computer network, stealing data with malware. 
+  They ultimately access 33 DNC computers and anonymously register a website called DC Leaks to publicize the release of documents.
+
+Were there security measures that could have been taken in order to prevent this attack?
